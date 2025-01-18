@@ -1,0 +1,1 @@
+This repository will contain a React app with scrolling text animation.
